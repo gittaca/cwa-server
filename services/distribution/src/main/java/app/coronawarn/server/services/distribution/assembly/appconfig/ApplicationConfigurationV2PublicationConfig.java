@@ -69,7 +69,7 @@ public class ApplicationConfigurationV2PublicationConfig {
    * The location of the exposure configuration source files for Android and Ios.
    */
   private static final String V1_RISK_PARAMETERS_FILE = "main-config/v2/risk-calculation-parameters.yaml";
-  private static final String V2_RISK_PARAMETERS_FILE = "main-config/v2/risk-calculation-parameters-1.15.yaml";
+  private static final String V2_RISK_PARAMETERS_FILE = "main-config/v2/risk-calculation-parameters-2.9.yaml";
   private static final String PRESENCE_TRACING_PARAMETERS_FILE = "main-config/v2/presence-tracing-parameters.yaml";
   private static final String CORONA_TEST_PARAMETERS_FILE = "main-config/v2/corona-test-parameters.yaml";
   private static final String PLAUSIBLE_DENIABILITY_PARAMETERS = "main-config/v2/plausible-deniability-parameters.yaml";
